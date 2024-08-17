@@ -3,7 +3,9 @@ BioVolunt es una aplicación enfocada en el cuidado del medioambiente y las area
 
 
 
-bitacora de desarrollo 17 agosto 2024
+bitacora de desarrollo
+
+17 agosto 2024
 
 
 
