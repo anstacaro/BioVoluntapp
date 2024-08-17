@@ -13,4 +13,6 @@ bitacora de desarrollo
 ![imagen](https://github.com/user-attachments/assets/abcd6641-eca3-40a7-a7a1-3a95e98bdbee)
 ![imagen](https://github.com/user-attachments/assets/4757cd44-3f20-460f-8618-d58be1c9b503)
 ![imagen](https://github.com/user-attachments/assets/f461f4dc-0694-43fc-94f3-a5ed3cdf93ad)
+![imagen](https://github.com/user-attachments/assets/a68f54ba-4363-4d6e-9281-52cd9541d911)
+
 
