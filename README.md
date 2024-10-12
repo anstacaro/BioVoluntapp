@@ -1,7 +1,7 @@
 # BioVolunt app
 
 BioVolunt es una aplicación enfocada en el cuidado del medioambiente y las areas verdes de la ciudad a traves de el voluntariado de limpieza y la denuncia ciudadana.
-La aplicación se desarrollo en el ambiente de desarrollo flutter con el lenguaje de programación Dart.EL proyecto será presentada en la feria Expociencias Chile 2024 en la Universidad Central. 
+La aplicación se desarrollo en el ambiente de desarrollo flutter con el lenguaje de programación Dart. EL proyecto será presentada en la feria Expociencias Chile 2024 en la Universidad Central. 
 
 link paper de la investigación presentada: https://docs.google.com/document/d/1aKsCwMgJ_PNp_ZBjJgCvDsHmKGpDrLSW/edit?usp=sharing&ouid=114643809794442700972&rtpof=true&sd=true
 
